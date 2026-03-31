@@ -24,6 +24,7 @@ pytest-benchmark
 pytest-asyncio
 pytest-timeout
 pytest-xdist
+hypothesis
 locust
 memory_profiler
 line_profiler
